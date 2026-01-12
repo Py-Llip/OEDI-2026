@@ -59,13 +59,13 @@
 
  - Cursar **piano**/teclado. ***Bloco N***
 
- - Desenvolver **sites** com HTML5, CSS3 e JS. ***Bloco 0/3/2***
+ - Desenvolver **sites** com HTML5, CSS3 e JS. ***Bloco 0/3/2*** ---| Congelar.
 
- - Aprender **JavaScript** para os sites. ***Bloco 0/1*** 
+ - Aprender **JavaScript** para os sites. ***Bloco 0/1***  -- | Depois de acabar o curso, congelar.
 
- - Iniciar o curso de **SEO**. ***Bloco 0/3/2***
+ - ~~Iniciar o curso de **SEO**. ***Bloco 3/0/2***~~
 
- - Cursar **Marketing**. ***Bloco 3/2***
+ - ~~Cursar **Marketing**. ***Bloco 3/2***~~
 
  - Estudar física, química e matemática do **ITA**. ***Bloco 1/0***
 
@@ -75,18 +75,18 @@
 
  - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter. ***Bloco 0/1***
 
- - Aprendendo o Pygame, codar o **game** que tanto imaginou. ***Bloco 0/2***
+ - Aprendendo o Pygame, codar o **game** que tanto imaginou. ***Bloco 0/2*** ---| Depois do projeto básico, congelar.
 
  - Abrir um **negócio** -sugestão: de tecnolgia-. ***Bloco 2/0***
 
- - Desenvolver **Inteligência Artificial** por meio do Python e temas além (probabilidade, matriz etc.). ***Bloco 0***
+ - ~~Desenvolver **Inteligência Artificial** por meio do Python e temas além (probabilidade, matriz etc.). ***Bloco 0***~~
 
 ## Blocos de Estudo
- - **0**: Voltado a Computação.
- - **1**: Conhecimentos Diversos.
- - **2**: Projetos Monetários.
- - **3**: Reconhecimento Digital.
- - **N**: Desenvolvimento em Áreas Solo (Qualquer conteúdo de encaixe).
+ - **0**: Voltado a Computação. ***80% do foco***
+ - **1**: Conhecimentos Diversos. ***80% do foco***
+ - **2**: Projetos Monetários. ***Preparação não focada***
+ - **3**: Reconhecimento Digital. ***Congelado***
+ - **N**: Desenvolvimento em Áreas Solo (Qualquer conteúdo de encaixe). ***20% do foco***
 
 ```
 Erro comum
@@ -117,6 +117,6 @@ Isso é dispersão, não genialidade.
  ### Método Semanal
   |Dom|Seg|Ter|Qua|Qui|Sex|Sab|
   |---|---|---|---|---|---|---|
-  |Bloco-0|Bloco-1|Bloco-2|Bloco-0|Bloco-1|Bloco-2|Revisão|
+  |Bloco-0|Bloco-1|Bloco-0|Bloco-1|Bloco-0|Bloco-1|Revisão|
 
 *Por: Fellipe Alves Brito*
