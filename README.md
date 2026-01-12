@@ -59,9 +59,9 @@
 
  - Cursar **piano**/teclado. ***Bloco N***
 
- - Desenvolver **sites** com HTML5, CSS3 e JS. ***Bloco 0/3/2*** ---| Congelar.
+ - Desenvolver **sites** com HTML5, CSS3 e JS. ***Bloco 0/3/2*** ---| Congelará.
 
- - Aprender **JavaScript** para os sites. ***Bloco 0/1***  -- | Depois de acabar o curso, congelar.
+ - Programar **JavaScript** para os sites. ***Bloco 0/1***  -- | Congelará.
 
  - ~~Iniciar o curso de **SEO**. ***Bloco 3/0/2***~~
 
@@ -69,15 +69,15 @@
 
  - Estudar física, química e matemática do **ITA**. ***Bloco 1/0***
 
- - Estudar **Finanças** Pessoais. ***Bloco 2/1***
-
  - Estudar conhecimentos diversos do **Enem**. ***Bloco 1***
+
+ - Estudar **Finanças** Pessoais. ***Bloco 2/1***
 
  - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter. ***Bloco 0/1***
 
- - Aprendendo o Pygame, codar o **game** que tanto imaginou. ***Bloco 0/2*** ---| Depois do projeto básico, congelar.
+ - Aprendendo o Pygame, codar o **game** que tanto imaginou. ***Bloco 0/2*** ---| Congelará.
 
- - Abrir um **negócio** -sugestão: de tecnolgia-. ***Bloco 2/0***
+ - ~~Abrir um **negócio** -sugestão: de tecnolgia-. ***Bloco 2/0***~~
 
  - ~~Desenvolver **Inteligência Artificial** por meio do Python e temas além (probabilidade, matriz etc.). ***Bloco 0***~~
 
