@@ -5,40 +5,36 @@
 
 ## Objetivos
 ### Metas Rasas (curto prazo)
- - Tocar qualquer música via **piano**.
+ ~~- Tocar qualquer música via **piano**.~~
 
- - **Programador** full-stack sênior.
+ - **Programador** full-stack.
 
- - **Game** que retorne remuneração.
+ ~~- **Game** que retorne remuneração.~~
 
  - Adquirir ganhos a partir das **tecnologias** estudadas (Linguagem de programação, construção de site etc.).
 
  - **Negócio** de tecnologia.
 
- - **Desfrutar** da vida.
-
 ### Metas Altas (longo prazo)
- - Tornar-se **versado** no ramo de **tecnologia**.
+ - ~~Tornar-se **versado** no ramo de **tecnologia**.~~
 
- - Criar **máquina IA**.
+ - ~~Criar **máquina IA**.~~
 
  - Fazer o **dinheiro** trabalhar por mim.
 
- - Tornar-se **rico**.
+ - ~~Tornar-se **rico**.~~
 
  - Ingressar numa universidade elite mediante **Enem**.
 
  - Ingressar no **ITA**.
 
- - Ingressar em **Harvard** (ou outras universidades de excelência no exterior).
+ - Ingressar em **MIT** (ou outras universidades de excelência no exterior).
 
- - Ter **negócios** -nomeadamente empresa de tecnologia espacial- de sucesso.
+ - ~~Ter **negócios** -nomeadamente empresa de tecnologia espacial- de sucesso.~~
 
  - Tornar-se **investidor** bem-sucedido.
 
- - Ser **sábio**.
-
- - **Desfrutar** da vida.
+ - ~~Ser **sábio**.~~
 
 ### Conclusões de Estudos Mensais:
  - [ ] Jan
@@ -59,9 +55,11 @@
 
  - Cursar **piano**/teclado. ***Bloco N***
 
- - Desenvolver **sites** com HTML5, CSS3 e JS. ***Bloco 0/3/2*** ---| Congelará.
+ - Desenvolver **sites** com HTML5, CSS3 e JS. ***Bloco 0/3/2***
 
- - Programar **JavaScript** para os sites. ***Bloco 0/1***  -- | Congelará.
+ - Programar **JavaScript** para os sites. ***Bloco 0/1***
+
+ - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter. ***Bloco 0/1***
 
  - ~~Iniciar o curso de **SEO**. ***Bloco 3/0/2***~~
 
@@ -73,9 +71,9 @@
 
  - Estudar **Finanças** Pessoais. ***Bloco 2/1***
 
- - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter. ***Bloco 0/1***
 
- - Aprendendo o Pygame, codar o **game** que tanto imaginou. ***Bloco 0/2*** ---| Congelará.
+
+ - ~~Aprendendo o Pygame, codar o **game** que tanto imaginou. ***Bloco 0/2***~~
 
  - ~~Abrir um **negócio** -sugestão: de tecnolgia-. ***Bloco 2/0***~~
 
