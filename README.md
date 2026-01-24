@@ -5,11 +5,11 @@
 
 ## Objetivos
 ### Metas Rasas (curto prazo)
- ~~- Tocar qualquer música via **piano**.~~
+ - ~~Tocar qualquer música via **piano**.~~
 
- - **Programador** full-stack.
+ - **Programador** full-stack júnior.
 
- ~~- **Game** que retorne remuneração.~~
+ - ~~**Game** que retorne remuneração.~~
 
  - Adquirir ganhos a partir das **tecnologias** estudadas (Linguagem de programação, construção de site etc.).
 
@@ -24,17 +24,13 @@
 
  - ~~Tornar-se **rico**.~~
 
- - Ingressar numa universidade elite mediante **Enem**.
-
- - Ingressar no **ITA**.
+ - Cursar Ciência da Computação numa instituição de ensino elite mediante **Enem**.
 
  - Ingressar em **MIT** (ou outras universidades de excelência no exterior).
 
- - ~~Ter **negócios** -nomeadamente empresa de tecnologia espacial- de sucesso.~~
+ - ~~Ter **negócios** -nomeadamente empresa de tecnologia- de sucesso.~~
 
  - Tornar-se **investidor** bem-sucedido.
-
- - ~~Ser **sábio**.~~
 
 ### Conclusões de Estudos Mensais:
  - [ ] Jan
@@ -55,36 +51,39 @@
 
  - Cursar **piano**/teclado. ***Bloco N***
 
- - Desenvolver **sites** com HTML5, CSS3 e JS. ***Bloco 0/3/2***
+ - Fazer 3 projetos completos com **HTML5 e CSS3**. ***Bloco 0/4***
 
- - Programar **JavaScript** para os sites. ***Bloco 0/1***
+ - Programar **JavaScript** para os sites. ***Bloco 0***
 
- - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter. ***Bloco 0/1***
+ - Aprender a usar o micro framework Flask para aplicações web. ***Bloco 0***
+
+ - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter etc. rasamente. ***Bloco 0/2***
+
+ - Fazer 3 porjetos completos com **Python**. ***Bloco 0***
+
+ - Prestar serviços onlines. ***Bloco 3/0***
+
+ - Estudar física, química e matemática do **Enem**. ***Bloco 2***
+
+ - Estudar conhecimentos diversos do **Enem**. ***Bloco 1***
+
+ - Estudar **Finanças** Pessoais. ***Bloco 3***
 
  - ~~Iniciar o curso de **SEO**. ***Bloco 3/0/2***~~
 
  - ~~Cursar **Marketing**. ***Bloco 3/2***~~
 
- - Estudar física, química e matemática do **ITA**. ***Bloco 1/0***
-
- - Estudar conhecimentos diversos do **Enem**. ***Bloco 1***
-
- - Estudar **Finanças** Pessoais. ***Bloco 2/1***
-
-
-
- - ~~Aprendendo o Pygame, codar o **game** que tanto imaginou. ***Bloco 0/2***~~
-
- - ~~Abrir um **negócio** -sugestão: de tecnolgia-. ***Bloco 2/0***~~
+ - ~~Abrir um **negócio** -sugestão: de tecnolgia-. ***Bloco 3/0***~~
 
  - ~~Desenvolver **Inteligência Artificial** por meio do Python e temas além (probabilidade, matriz etc.). ***Bloco 0***~~
 
 ## Blocos de Estudo
- - **0**: Voltado a Computação. ***80% do foco***
- - **1**: Conhecimentos Diversos. ***80% do foco***
- - **2**: Projetos Monetários. ***Preparação não focada***
- - **3**: Reconhecimento Digital. ***Congelado***
- - **N**: Desenvolvimento em Áreas Solo (Qualquer conteúdo de encaixe). ***20% do foco***
+ - **0**: Voltado a Computação. ***30% do foco***
+ - **1**: Conhecimentos Diversos. ***50% do foco*** |
+ - **2**: Conhecimentos exatos. ***50% do foco***---|
+ - **3**: Finanças. ***20% do foco***---------------------------------------------------------------|
+ - **4**: Reconhecimento Digital. ***Congelado***
+ - **N**: Desenvolvimento em Áreas Solo (Qualquer conteúdo de encaixe). ***20% do foco*** |
 
 ```
 Erro comum
@@ -112,7 +111,7 @@ Isso é dispersão, não genialidade.
   |---|---|---|---|---|---|---|
   |LV|Bloco-satélite|Bloco-foco|Bloco-foco|Bloco-satélite|Revisão|Desfoco|
 
- ### Método Semanal
+ ### ~~Método Semanal~~
   |Dom|Seg|Ter|Qua|Qui|Sex|Sab|
   |---|---|---|---|---|---|---|
   |Bloco-0|Bloco-1|Bloco-0|Bloco-1|Bloco-0|Bloco-1|Revisão|
