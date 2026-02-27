@@ -4,16 +4,17 @@
 ![Minha divisão dirária](meu_grafico.png)
 
 ---
-
+## Regras a se modificar o plano
+Fazer simples, executável e constante (vence complexo e perfeito).
 ## Objetivos
 ### Metas Rasas (curto prazo)
- - Tocar qualquer música via **piano**.
+ ~~- Tocar qualquer música via **piano**.~~
 
- - **Programador** full-stack júnior.
+ - Conseguir primeiro ganho em dinheiro através de desenvolvimento de sites até data 25/08
 
  - ~~**Game** que retorne remuneração.~~
 
- - Adquirir ganhos a partir das **tecnologias** estudadas (Linguagem de programação, construção de site etc.).
+ - ~~Adquirir ganhos a partir das **tecnologias** estudadas (Linguagem de programação, construção de site etc.).~~
 
  - ~~**Negócio** de tecnologia.~~
 
@@ -22,21 +23,21 @@
 
  - ~~Criar **máquina IA**.~~
 
- - Fazer o **dinheiro** trabalhar por mim.
+ - ~~Fazer o **dinheiro** trabalhar por mim.~~
 
- - Tornar-se **rico**.
+ - ~~Tornar-se **rico**.~~
 
- - Cursar Engenharia da Computação numa instituição de ensino elite mediante **Enem** ou **ITA**.
+ - Cursar Ciência da Computação em uma dessas instituições de ensino: USP, UFMG mediante **Enem**.
 
- - Ingressar no **MIT** (ou outras universidades de excelência no exterior).
+ - ~~Ingressar no **MIT** (ou outras universidades de excelência no exterior).~~
 
- - Ter **negócios** -nomeadamente empresa de tecnologia- de sucesso.
+ - ~~Ter **negócios** -nomeadamente empresa de tecnologia- de sucesso.~~
 
- - Tornar-se **investidor** bem-sucedido.
+ - ~~Tornar-se **investidor** bem-sucedido.~~
 
 ### Conclusões de Estudos Mensais:
- - [x] Jan
- - [ ] Fev
+ - [x] Jan (Ações praticadas)
+ - [ ] Fev (Estagnação de sobrecarga de estudos / repaginação das metas e das ações)
  - [ ] Mar
  - [ ] Abr
  - [ ] Mai
@@ -49,27 +50,42 @@
  - [ ] Dez
 
 ## Ação
- - Ler **livro** (intercalar com livros de assunto do estudo atual). ***Bloco N***
+ - ~~Ler **livro** (intercalar com livros de assunto do estudo atual). ***Bloco N***~~
 
- - Cursar **piano**/teclado. ***Bloco N***
+ - ~~Cursar **piano**/teclado. ***Bloco N***~~
 
- - Fazer 3 projetos completos com **HTML5 e CSS3**. ***Bloco 0/4***
+ - Fazer os seguintes projetos com html e css e js:
+   1. Site Meu portifólio data de conclusão: 6 de maio
+   2. Site Sistema de login com Banco de Dados
+   3. Site completo de Empresa de drones
+   4. Projeto com utilidade real (com python)
 
- - Aprofundar em **JavaScript** para os sites. ***Bloco 0***
+ - Estudar DOM em JavaScript, logo depois POO do js.
 
- - Aprender a usar o micro framework Flask para aplicações web. ***Bloco 0***
+ - Estudar o microframework Flask do Python.
 
- - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter etc. ***Bloco 0/2***
+ - Concluir o estudo POO de python (além, tópicos no drive):
+   1. Banco de dados
+   2. Apis
+   3. Automação
 
- - Fazer 3 porjetos completos com **Python**. ***Bloco 0***
+ - Fazer os seguintes projetos com Python:
+   1. Criação de site com Flask
+   2. Algoritmo de drone simples (posicao x do drone)
+   3. Automação (ainda pensando)
 
- - Prestar serviços onlines. ***Bloco 3/0***
+ - Preparar-se para o mercado de freelancer com tais projetos.:
+   1. Abrir contas em apps de freelancing e organiza-las ao mercado
+   2. Abordar clientes diretamente
+   3. Criar propostas simples de serviço
 
- - Estudar física, química e matemática do **Enem/ITA/Obmep**. ***Bloco 2***
+ - Estudar Física e Química (cada tópico está em outro arquivo no drive).
 
- - ~~Estudar conhecimentos diversos do **Enem** no terceiro ano do Ensino Médio. ***Bloco 1***~~ ***Congelado***
+ - Fazer 10 questões de matemática diárias e estudar funções avançadas semanais.
 
- - Estudar **Finanças** Pessoais. ***Bloco 3***
+ - Estudar conhecimentos diversos do **Enem** no terceiro ano do Ensino Médio. (Estou do segundo ano)***Bloco 1*** ***Congelado**
+
+ - ~~Estudar **Finanças** Pessoais. ***Bloco 3***~~
 
  - ~~Iniciar o curso de **SEO**. ***Bloco 3/0/2***~~
 
